@@ -21,3 +21,8 @@ let flechedegauche = document.getElementById("flechedegauche")
 flechedegauche.addEventListener("click", function () {
 	console.log("Vous avez cliqué")
 });
+
+let flechededroite = document.getElementById("flechededroite")
+flechededroite.addEventListener("click", function () {
+	console.log("Vous avez cliqué")
+});
